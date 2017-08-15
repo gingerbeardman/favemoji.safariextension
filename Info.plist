@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Matt Sephton</string>
+	<key>Builder Version</key>
+	<string>12603.3.8</string>
+	<key>CFBundleDisplayName</key>
+	<string>favemoji</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.gingerbeardman.favemoji</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>(2017-08-16)</string>
+	<key>CFBundleVersion</key>
+	<string>20170816</string>
+	<key>Chrome</key>
+	<dict>
+		<key>Global Page</key>
+		<string>global.html</string>
+	</dict>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>End</key>
+			<array>
+				<string>script.js</string>
+			</array>
+		</dict>
+	</dict>
+	<key>Description</key>
+	<string>Emoji instead of favicons</string>
+	<key>DeveloperIdentifier</key>
+	<string>Q3Z639YB49</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>All</string>
+		</dict>
+	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://www.gingerbeardman.com/safari/update.xml</string>
+	<key>Website</key>
+	<string>http://www.gingerbeardman.com/safari/</string>
+</dict>
+</plist>

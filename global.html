@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>global HTML page</title>
+  <script type="text/javascript">
+    function returnSetting(event) {
+      // return to sender
+      event.target.page.dispatchMessage("favemoji", safari.extension.settings["favemoji"]);
+    }
+
+    function respondToMessage(theMessageEvent) {
+      if (theMessageEvent.name === "requestSetting") {
+        //get setting
+        returnSetting(theMessageEvent);
+      }
+    }
+
+    //listen for message
+    safari.application.addEventListener("message", respondToMessage, false);
+  </script>
+</head>
+
+<body>
+</body>
+
+</html>
