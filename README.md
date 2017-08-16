@@ -7,6 +7,12 @@ The Safari browser does not display favicons which arguably makes it more diffic
 
 And I thought it would be good, clean fun to use emoji to achieve a sort of favicon look in tabs. This is the result.
 
+## Install
+
+1. Download the extension from this repository: [favemoji.safariextz](https://github.com/gingerbeardman/favemoji.safariextension/releases/download/20180816/favemoji.safariextz)
+2. Double click the file to install it in Safari
+3. Emoji will show up when tabs are refreshed or browsing continues.
+
 ## How does it work?
 `document.location.hostname` (only the domain name and subdomain) is used as the key to an array of emojis. If there's a match we prepend the emoji to the page title.
 
