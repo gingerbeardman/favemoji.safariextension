@@ -2,6 +2,8 @@
 
 Emoji instead of favicons in Safari.
 
+![screenshot](screenshot.png)
+
 ## Why?
 The Safari browser does not display favicons. You could argue that this makes it more difficult to find the content you are interested in when using tabs.
 
