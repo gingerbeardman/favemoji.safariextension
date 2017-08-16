@@ -3,9 +3,9 @@
 Emoji instead of favicons in Safari.
 
 ## Why?
-The Safari browser does not display favicons which arguably makes it more difficult to find the content you are interested in if you are looking across tab titles.
+The Safari browser does not display favicons. You could argue that this makes it more difficult to find the content you are interested in when using tabs.
 
-And I thought it would be good, clean fun to use emoji to achieve a sort of favicon look in tabs. This is the result.
+Also I thought it would be good, clean fun to use emoji to achieve a sort of favicon look in tabs. This is the result.
 
 ## Install
 
