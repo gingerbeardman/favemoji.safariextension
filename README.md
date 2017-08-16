@@ -9,7 +9,7 @@ And I thought it would be good, clean fun to use emoji to achieve a sort of favi
 
 ## Install
 
-1. Download the extension from this repository: [favemoji.safariextz](https://github.com/gingerbeardman/favemoji.safariextension/releases/download/20180816/favemoji.safariextz)
+1. Download the extension from this repository: [favemoji.safariextz](https://github.com/gingerbeardman/favemoji.safariextension/releases/download/2018-08-16/favemoji.safariextz)
 2. Double click the file to install it in Safari
 3. Emoji will show up when tabs are refreshed or browsing continues.
 
