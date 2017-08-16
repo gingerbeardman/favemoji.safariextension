@@ -18,6 +18,8 @@ Also I thought it would be good, clean fun to use emoji to achieve a sort of fav
 
 Additionally a `MutationObserver` is used to watch for changes to the page title allowing the addition of the emoji to be more robust.
 
+The domains and emoji are stored as a JSON object that is editable in Safari > Preferences > Extensions > favemoji
+
 ### To Do
 * ability for user to define their own emoji for a domain (toolbar button?)
 * add exact Unicode matches for certain domains (eg. , ✪, 🅟, etc.)
