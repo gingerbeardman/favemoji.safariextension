@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Matt Sephton</string>
 	<key>Builder Version</key>
-	<string>12603.3.8</string>
+	<string>12605.1.2</string>
 	<key>CFBundleDisplayName</key>
 	<string>favemoji</string>
 	<key>CFBundleIdentifier</key>
@@ -13,9 +13,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>(2017-08-16)</string>
+	<string>(2017-08-24)</string>
 	<key>CFBundleVersion</key>
-	<string>20170816</string>
+	<string>20170824</string>
 	<key>Chrome</key>
 	<dict>
 		<key>Global Page</key>

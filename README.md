@@ -24,21 +24,24 @@ The domains and emoji are stored as a JSON object that is editable in Safari > P
 
 ### To Do
 * ability for user to define their own emoji for a domain (toolbar button?)
-* add exact Unicode matches for certain domains (eg. , ✪, 🅟, etc.)
+* add exact Unicode matches for certain domains (eg. , ✪, etc.)
 * add more popular domains
 
 ### Future Plans
-* fuzzy domain matching to help deal with more subdomains?
 * custom spec/meta to allow site owner to specify emoji?
 * use page meta/content to best guess a relevant emoji?
+
+#### Suggesting Emoji
+If you'd like to suggest a new domain/emoji pair please include a reference to the favicon or branding that the emoji matches. A description of the reason behind the match is also useful.
 
 #### Pull Requests Welcome
 Pull Requests are welcome and will be dealt with swiftly. All help is very much appreciated!
 
-#### License
+##### License
 MIT. Copyright (c) 2017 Matt Sephton @gingerbeardman
 
-#### Change Log
-2017-08-16: added MutationObserver and icon  
-2017-08-15: added Alexa Top 100 and select other sites (total ~150)  
-2017-08-14: initial version  
+##### Change Log
+2017-08-24: tries to match all parts of domain, tweaked defaults
+2017-08-16: added MutationObserver and icon
+2017-08-15: added Alexa Top 100 and select other sites (total ~150)
+2017-08-14: initial version
