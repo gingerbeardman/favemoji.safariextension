@@ -41,7 +41,7 @@ Pull Requests are welcome and will be dealt with swiftly. All help is very much 
 MIT. Copyright (c) 2017 Matt Sephton @gingerbeardman
 
 ##### Change Log
-2017-08-24: tries to match all parts of domain, tweaked defaults  
+2017-08-24: improved domain matching, tweaked defaults  
 2017-08-16: added MutationObserver and icon  
 2017-08-15: added Alexa Top 100 and select other sites (total ~150)  
 2017-08-14: initial version  
